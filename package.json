@@ -1,0 +1,38 @@
+{
+  "name": "onedionys-debounce-throttle-functions",
+  "version": "1.0.0",
+  "description": "One Dionys (Debounce Throttle Functions) - Functions to control the frequency of function calls, helping to address the issue of resource abuse.",
+  "main": "src/debounceThrottle.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-debounce-throttle-functions.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "debounce-throttle-functions"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-debounce-throttle-functions/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-debounce-throttle-functions#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-ajax-wrapper": "^1.0.0",
+    "onedionys-data-storage": "^1.0.0",
+    "onedionys-event-emitter": "^1.0.0",
+    "onedionys-promise-utilities": "^1.0.0",
+    "onedionys-validation-library": "^1.0.0"
+  }
+}
