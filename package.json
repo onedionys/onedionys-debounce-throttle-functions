@@ -1,6 +1,6 @@
 {
   "name": "onedionys-debounce-throttle-functions",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Debounce Throttle Functions) - Functions to control the frequency of function calls, helping to address the issue of resource abuse.",
   "main": "src/debounceThrottle.js",
   "scripts": {
